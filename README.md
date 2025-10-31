@@ -49,7 +49,3 @@ The following CAFormer-based models from the AniTimm series are supported:
 ## Output
 
 The inference results will be displayed in the console, showing the top predicted tags for the input image, categorized into general tags, character tags, and rating tags.
-
-## License
-
-This project is licensed under the MIT License.
